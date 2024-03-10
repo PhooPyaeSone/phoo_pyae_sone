@@ -3,17 +3,17 @@
     <div class="flex gap-1">
       <SocialIcon
         title="Github"
-        link="https://github.com/mightykillrr"
+        link="https://github.com/PhooPyaeSone"
         icon="ant-design:github-filled"
       />
       <SocialIcon
         title="Twitter"
-        link="https://twitter.com/mightykillrr"
+        link="https://twitter.com"
         icon="ant-design:twitter-outlined"
       />
       <SocialIcon
         title="Instagram"
-        link="https://www.instagram.com/aniketkotal/"
+        link="https://www.instagram.com/sylvia_phoo_pyae/"
         icon="ant-design:instagram-outlined"
       />
     </div>
